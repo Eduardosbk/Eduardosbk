@@ -3,7 +3,7 @@
 <!--
 **Eduardosbk/Eduardosbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Eduardo github stats](https://github-readme-stats.vercel.app/api?username=eduardosbk)](https://github.com/eduardosbk/github-readme-stats)
+[![Eduardo github stats](https://github-readme-stats.vercel.app/api?username=Eduardosbk)](https://github.com/Eduardosbk/github-readme-stats)
 
 Here are some ideas to get you started:
 

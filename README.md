@@ -12,7 +12,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;">
 <img align="left" alt="Git" width="26px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/Eduardosbk/images/blob/main/mongo.png" style="max-width:100%;">
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;">
+<img align="left" alt="MySQL" width="26px" src="https://github.com/Eduardosbk/images/blob/main/mysql.png" style="max-width:100%;">
 
 
 

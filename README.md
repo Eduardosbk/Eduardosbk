@@ -1,10 +1,10 @@
 ### Languages and tools:
 
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/Eduardosbk/images/blob/main/javascript2.png" style="max-width:100%;">
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript2.png" style="max-width:100%;">
 
-<img align="left" alt="htmlcss" height="26px" src="https://github.com/Eduardosbk/images/blob/main/htmlcss.png" style="max-width:100%;">
+<img align="left" alt="htmlcss" width="32px" src="https://github.com/Eduardosbk/images/blob/main/htmlcss.png" style="max-width:100%;">
 
-<img align="left" alt="frontend" height="26px" src="https://github.com/Eduardosbk/images/blob/main/frontend.png" style="max-width:100%;">
+<img align="left" alt="frontend" width="32px" src="https://github.com/Eduardosbk/images/blob/main/frontend.png" style="max-width:100%;">
 
 <img align="left" alt="react" width="26px" src="https://github.com/Eduardosbk/images/blob/main/react.png" style="max-width:100%;">
 

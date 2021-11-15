@@ -42,8 +42,6 @@
 
 <img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
 
-<img align="left" alt="gulp" height="32px" src="https://github.com/Eduardosbk/images/blob/main/gulp.png" style="max-width:100%;">
-
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
 
 <img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
@@ -54,8 +52,6 @@
 
 <img align="left" alt="kubernetes" width="32px" src="https://github.com/Eduardosbk/images/blob/main/kuberbetes.png" style="max-width:100%;">
 
-<img align="left" alt="less" width="32px" src="https://github.com/Eduardosbk/images/blob/main/less.png" style="max-width:100%;">
-
 <img align="left" alt="linux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/linux.png" style="max-width:100%;">
 
 <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.png" style="max-width:100%;">
@@ -65,8 +61,6 @@
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 
 <img align="left" alt="serverless" width="32px" src="https://github.com/Eduardosbk/images/blob/main/serverless.png" style="max-width:100%;">
-
-<img align="left" alt="sql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sql.png" style="max-width:100%;">
 
 <img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.png" style="max-width:100%;">
 

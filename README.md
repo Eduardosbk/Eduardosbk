@@ -1,12 +1,12 @@
 ### Languages and tools:
 
-<img align="center" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript2.png" style="max-width:100%;">
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript2.png" style="max-width:100%;">
 
-<img align="center" alt="htmlcss" width="32px" src="https://github.com/Eduardosbk/images/blob/main/htmlcss.png" style="max-width:100%;">
+<img align="left" alt="htmlcss" width="32px" src="https://github.com/Eduardosbk/images/blob/main/htmlcss.png" style="max-width:100%;">
 
-<img align="center" alt="frontend" width="32px" src="https://github.com/Eduardosbk/images/blob/main/frontend.png" style="max-width:100%;">
+<img align="left" alt="frontend" width="32px" src="https://github.com/Eduardosbk/images/blob/main/frontend.png" style="max-width:100%;">
 
-<img align="center" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react.png" style="max-width:100%;">
+<img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react.png" style="max-width:100%;">
 
 <img align="left" alt="reactnative" width="32px" src="https://github.com/Eduardosbk/images/blob/main/reactnative.png" style="max-width:100%;">
 
@@ -50,7 +50,7 @@
 
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
 
-<img alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
+<img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
 
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 

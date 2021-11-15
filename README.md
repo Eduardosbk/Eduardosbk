@@ -30,6 +30,20 @@
 
 <img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
 
+<img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
+
+<img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
+
+<img align="left" alt="vuejs" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vue.png" style="max-width:100%;">
+
+<img align="left" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
+
+<img align="left" alt="wordpress" width="32px" src="https://github.com/Eduardosbk/images/blob/main/wordpress.png" style="max-width:100%;">
+
+<img align="left" alt="yarn" width="32px" src="https://github.com/Eduardosbk/images/blob/main/yarn.png" style="max-width:100%;">
+
+<img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
+
 <img align="left" alt="github" width="32px" src="https://github.com/Eduardosbk/images/blob/main/github.png" style="max-width:100%;">
 
 <img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
@@ -62,19 +76,7 @@
 
 <img align="left" alt="svg" height="26px" src="https://github.com/Eduardosbk/images/blob/main/svg.png" style="max-width:100%;">
 
-<img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
 
-<img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
-
-<img align="left" alt="vuejs" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vue.png" style="max-width:100%;">
-
-<img align="left" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
-
-<img align="left" alt="wordpress" width="32px" src="https://github.com/Eduardosbk/images/blob/main/wordpress.png" style="max-width:100%;">
-
-<img align="left" alt="yarn" width="32px" src="https://github.com/Eduardosbk/images/blob/main/yarn.png" style="max-width:100%;">
-
-<img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
 
 
 

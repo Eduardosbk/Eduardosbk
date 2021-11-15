@@ -38,8 +38,6 @@
 
 <img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
 
-<img align="left" alt="github" width="32px" src="https://github.com/Eduardosbk/images/blob/main/github.png" style="max-width:100%;">
-
 <img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
 
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
@@ -49,8 +47,6 @@
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 
 <img align="left" alt="jquery" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jquery.png" style="max-width:100%;">
-
-<img align="left" alt="kubernetes" width="32px" src="https://github.com/Eduardosbk/images/blob/main/kuberbetes.png" style="max-width:100%;">
 
 <img align="left" alt="linux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/linux.png" style="max-width:100%;">
 
@@ -63,9 +59,6 @@
 <img align="left" alt="serverless" width="32px" src="https://github.com/Eduardosbk/images/blob/main/serverless.png" style="max-width:100%;">
 
 <img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.png" style="max-width:100%;">
-
-
-
 
 
 

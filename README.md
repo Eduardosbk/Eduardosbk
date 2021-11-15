@@ -20,7 +20,7 @@
 
 <img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 
-<img align="left" alt="babel" width="32px" src="https://github.com/Eduardosbk/images/blob/main/babel.png" style="max-width:100%;">
+<img align="left" alt="babel" heigth="32px" src="https://github.com/Eduardosbk/images/blob/main/babel.png" style="max-width:100%;">
 
 <img align="left" alt="bootstrap" width="32px" src="https://github.com/Eduardosbk/images/blob/main/bootstrap.png" style="max-width:100%;">
 

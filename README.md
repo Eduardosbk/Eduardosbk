@@ -72,7 +72,7 @@
 
 <img align="left" alt="sql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sql.png" style="max-width:100%;">
 
-<img align="left" alt="Redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.png" style="max-width:100%;">
+<img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.png" style="max-width:100%;">
 
 <img align="left" alt="svg" height="26px" src="https://github.com/Eduardosbk/images/blob/main/svg.png" style="max-width:100%;">
 

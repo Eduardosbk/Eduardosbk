@@ -46,8 +46,6 @@
 
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 
-<img align="left" alt="jquery" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jquery.png" style="max-width:100%;">
-
 <img align="left" alt="linux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/linux.png" style="max-width:100%;">
 
 <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.png" style="max-width:100%;">

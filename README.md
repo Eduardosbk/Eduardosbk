@@ -4,8 +4,6 @@
 
 <img align="left" alt="htmlcss" width="32px" src="https://github.com/Eduardosbk/images/blob/main/htmlcss.png" style="max-width:100%;">
 
-<img align="left" alt="frontend" width="32px" src="https://github.com/Eduardosbk/images/blob/main/frontend.png" style="max-width:100%;">
-
 <img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react.png" style="max-width:100%;">
 
 <img align="left" alt="reactnative" width="32px" src="https://github.com/Eduardosbk/images/blob/main/reactnative.png" style="max-width:100%;">
@@ -22,17 +20,11 @@
 
 <img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 
-<img align="left" alt="babel" height="32px" src="https://github.com/Eduardosbk/images/blob/main/babel.png" style="max-width:100%;">
-
-<img align="left" alt="bootstrap" width="32px" src="https://github.com/Eduardosbk/images/blob/main/bootstrap.png" style="max-width:100%;">
-
 <img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
                                                                                                                                     
 <img align="right" alt="electron" width="32px" src="https://github.com/Eduardosbk/images/blob/main/electron.png" style="max-width:100%;">
 
 <img align="right" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
-
-<img align="right" alt="vuejs" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vue.png" style="max-width:100%;">
 
 <img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
 
@@ -46,11 +38,7 @@
 
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 
-<img align="left" alt="linux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/linux.png" style="max-width:100%;">
-
 <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.png" style="max-width:100%;">
-
-<img align="left" alt="npm" width="32px" src="https://github.com/Eduardosbk/images/blob/main/npm.png" style="max-width:100%;">
 
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 

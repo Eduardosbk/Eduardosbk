@@ -8,7 +8,13 @@
 
 <img align="left" alt="react" width="26px" src="https://github.com/Eduardosbk/images/blob/main/react.png" style="max-width:100%;">
 
+<img align="left" alt="reactnative" height="26px" src="https://github.com/Eduardosbk/images/blob/main/reactnative.png" style="max-width:100%;">
+
 <img align="left" alt="node" height="26px" src="https://github.com/Eduardosbk/images/blob/main/node.png" style="max-width:100%;">
+
+<img align="left" alt="typescript" height="26px" src="https://github.com/Eduardosbk/images/blob/main/typescript.png" style="max-width:100%;">
+
+<img align="left" alt="sass" height="26px" src="https://github.com/Eduardosbk/images/blob/main/sass.png" style="max-width:100%;">
 
 <img align="left" alt="aws" height="26px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 
@@ -46,11 +52,7 @@
 
 <img align="left" alt="nextjs" height="26px" src="https://github.com/Eduardosbk/images/blob/main/nextjs.png" style="max-width:100%;">
 
-<img align="left" alt="reactnative" height="26px" src="https://github.com/Eduardosbk/images/blob/main/reactnative.png" style="max-width:100%;">
-
 <img align="left" alt="redis" height="26px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
-
-<img align="left" alt="sass" height="26px" src="https://github.com/Eduardosbk/images/blob/main/sass.png" style="max-width:100%;">
 
 <img align="left" alt="serverless" height="26px" src="https://github.com/Eduardosbk/images/blob/main/serverless.png" style="max-width:100%;">
 
@@ -61,8 +63,6 @@
 <img align="left" alt="svg" height="26px" src="https://github.com/Eduardosbk/images/blob/main/svg.png" style="max-width:100%;">
 
 <img align="left" alt="Terminal" width="26px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
-
-<img align="left" alt="typescript" height="26px" src="https://github.com/Eduardosbk/images/blob/main/typescript.png" style="max-width:100%;">
 
 <img align="left" alt="vscode" height="26px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 

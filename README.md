@@ -24,7 +24,7 @@
 
 <img align="left" alt="bootstrap" width="32px" src="https://github.com/Eduardosbk/images/blob/main/bootstrap.png" style="max-width:100%;">
 
-<img align="left" alt="docker" heigth="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
+<img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
 
 <img align="left" alt="electron" width="32px" src="https://github.com/Eduardosbk/images/blob/main/electron.png" style="max-width:100%;">
 

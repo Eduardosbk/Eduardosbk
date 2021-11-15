@@ -18,13 +18,13 @@
 
 <img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
 
-<img align="left" alt="aws" height="26px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
+<img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 
-<img align="left" alt="babel" height="26px" src="https://github.com/Eduardosbk/images/blob/main/babel.png" style="max-width:100%;">
+<img align="left" alt="babel" width="32px" src="https://github.com/Eduardosbk/images/blob/main/babel.png" style="max-width:100%;">
 
 <img align="left" alt="bootstrap" width="32px" src="https://github.com/Eduardosbk/images/blob/main/bootstrap.png" style="max-width:100%;">
 
-<img align="left" alt="docker" width="44px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
+<img align="left" alt="docker" width="32px"" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
 
 <img align="left" alt="electron" width="32px" src="https://github.com/Eduardosbk/images/blob/main/electron.png" style="max-width:100%;">
 
@@ -44,7 +44,7 @@
 
 <img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
 
-<img align="left" alt="gulp" height="26px" src="https://github.com/Eduardosbk/images/blob/main/gulp.png" style="max-width:100%;">
+<img align="left" alt="gulp" width="32px" src="https://github.com/Eduardosbk/images/blob/main/gulp.png" style="max-width:100%;">
 
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
 
@@ -56,15 +56,15 @@
 
 <img align="left" alt="kubernetes" width="32px" src="https://github.com/Eduardosbk/images/blob/main/kuberbetes.png" style="max-width:100%;">
 
-<img align="left" alt="less" height="26px" src="https://github.com/Eduardosbk/images/blob/main/less.png" style="max-width:100%;">
+<img align="left" alt="less" width="32px" src="https://github.com/Eduardosbk/images/blob/main/less.png" style="max-width:100%;">
 
 <img align="left" alt="linux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/linux.png" style="max-width:100%;">
 
 <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.png" style="max-width:100%;">
 
-<img align="left" alt="npm" height="26px" src="https://github.com/Eduardosbk/images/blob/main/npm.png" style="max-width:100%;">
+<img align="left" alt="npm" width="32px" src="https://github.com/Eduardosbk/images/blob/main/npm.png" style="max-width:100%;">
 
-<img align="left" alt="nextjs" height="32px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
+<img align="left" alt="nextjs" width="32px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
 
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 
@@ -74,7 +74,7 @@
 
 <img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.png" style="max-width:100%;">
 
-<img align="left" alt="svg" height="26px" src="https://github.com/Eduardosbk/images/blob/main/svg.png" style="max-width:100%;">
+<img align="left" alt="svg" width="32px" src="https://github.com/Eduardosbk/images/blob/main/svg.png" style="max-width:100%;">
 
 
 

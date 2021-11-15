@@ -30,10 +30,6 @@
 
 <img align="left" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
 
-<img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
-
-<img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
-
 <img align="left" alt="vuejs" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vue.png" style="max-width:100%;">
 
 <img align="left" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
@@ -51,6 +47,10 @@
 <img align="left" alt="gulp" height="26px" src="https://github.com/Eduardosbk/images/blob/main/gulp.png" style="max-width:100%;">
 
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
+
+<img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
+
+<img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 
 <img align="left" alt="jquery" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jquery.png" style="max-width:100%;">
 

@@ -64,7 +64,7 @@
 
 <img align="left" alt="npm" height="26px" src="https://github.com/Eduardosbk/images/blob/main/npm.png" style="max-width:100%;">
 
-<img align="left" alt="nextjs" height="26px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
+<img align="left" alt="nextjs" height="32px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
 
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 

@@ -36,10 +36,6 @@
 
 <img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
 
-<img align="left" alt="wordpress" width="32px" src="https://github.com/Eduardosbk/images/blob/main/wordpress.png" style="max-width:100%;">
-
-<img align="left" alt="yarn" width="32px" src="https://github.com/Eduardosbk/images/blob/main/yarn.png" style="max-width:100%;">
-
 <img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
 
 <img align="left" alt="github" width="32px" src="https://github.com/Eduardosbk/images/blob/main/github.png" style="max-width:100%;">

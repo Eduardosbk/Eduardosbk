@@ -1,5 +1,5 @@
 ### Languages and tools:
-<img align="left" alt="aws" height="50px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
+<img align="left" alt="aws" height="26px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">

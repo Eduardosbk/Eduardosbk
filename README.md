@@ -16,6 +16,8 @@
 
 <img align="left" alt="sass" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sass.png" style="max-width:100%;">
 
+<img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
+
 <img align="left" alt="aws" height="26px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 
 <img align="left" alt="babel" height="26px" src="https://github.com/Eduardosbk/images/blob/main/babel.png" style="max-width:100%;">
@@ -29,8 +31,6 @@
 <img align="left" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
 
 <img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
-
-<img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
 
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 

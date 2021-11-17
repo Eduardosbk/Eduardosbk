@@ -14,7 +14,7 @@
 
 <img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
 
-<img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
+<img align="left" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
 
 <img align="left" alt="sass" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sass.png" style="max-width:100%;">
 
@@ -24,9 +24,9 @@
 
 <img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
                                                                                                                                     
-<img align="right" alt="electron" width="32px" src="https://github.com/Eduardosbk/images/blob/main/electron.png" style="max-width:100%;">
+<img align="left" alt="electron" width="32px" src="https://github.com/Eduardosbk/images/blob/main/electron.png" style="max-width:100%;">
 
-<img align="right" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
+<img align="left" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
 
 <img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
 

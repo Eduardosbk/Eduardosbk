@@ -26,8 +26,6 @@
 
 <img align="right" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
 
-<img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
-
 <img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
 
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
@@ -45,6 +43,8 @@
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 
 <img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
+
+<img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
 
 
 

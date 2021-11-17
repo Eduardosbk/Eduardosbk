@@ -44,7 +44,7 @@
 
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 
-<img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
+<img align="right" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
 
 
 

@@ -14,6 +14,8 @@
 
 <img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
 
+<img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
+
 <img align="left" alt="sass" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sass.png" style="max-width:100%;">
 
 <img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
@@ -43,8 +45,6 @@
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 
 <img align="left" alt="SQL" width="32px" src="https://github.com/Eduardosbk/images/blob/main/db.png" style="max-width:100%;">
-
-<img align="right" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.png" style="max-width:100%;">
 
 
 

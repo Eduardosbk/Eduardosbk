@@ -44,8 +44,8 @@
 
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
 
-<img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sequelize.svg
-" style="max-width:100%;">
+<img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sequelize.svg" style="max-width:100%;">
+
 
 
 

@@ -23,12 +23,8 @@
 <img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
 
 <img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
-                                                                                                                                    
-<img align="left" alt="electron" width="32px" src="https://github.com/Eduardosbk/images/blob/main/electron.png" style="max-width:100%;">
 
 <img align="left" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
-
-<img align="left" alt="graphql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/graphql.png" style="max-width:100%;">
 
 <img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
 
@@ -37,14 +33,6 @@
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
 
 <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.png" style="max-width:100%;">
-
-<img align="left" alt="serverless" width="32px" src="https://github.com/Eduardosbk/images/blob/main/serverless.png" style="max-width:100%;">
-
-<img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.png" style="max-width:100%;">
-
-<img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.png" style="max-width:100%;">
-
-<img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sequelize.svg" style="max-width:100%;">
 
 
 

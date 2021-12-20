@@ -26,8 +26,6 @@
 
 <img align="left" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
 
-<img align="left" alt="jest" width="32px" src="https://github.com/Eduardosbk/images/blob/main/jest.png" style="max-width:100%;">
-
 <img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
 
 <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">

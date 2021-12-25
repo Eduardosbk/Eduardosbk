@@ -14,7 +14,7 @@
 
 <img align="left" alt="typescript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/typescript.svg" style="max-width:100%;">
 
-<img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/next.svg" style="max-width:100%;">
+<img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/nextjs.svg" style="max-width:100%;">
 
 <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.svg" style="max-width:100%;">
 
@@ -34,7 +34,7 @@
 
 <img align="left" alt="terraform" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terraform.svg" style="max-width:100%;">
 
-<img align="left" alt="figma" width="32px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
+<img align="left" alt="figma" width="48px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
 
 <img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.svg" style="max-width:100%;">
 

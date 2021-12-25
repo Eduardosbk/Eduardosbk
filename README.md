@@ -6,7 +6,7 @@
 
 <img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/css3.svg" style="max-width:100%;">
 
-<img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react.svg" style="max-width:100%;">
+<img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/reactjs.svg" style="max-width:100%;">
 
 <img align="left" alt="reactnative" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react-native.svg" style="max-width:100%;">
 
@@ -35,6 +35,8 @@
 <img align="left" alt="terraform" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terraform.svg" style="max-width:100%;">
 
 <img align="left" alt="figma" width="32px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
+
+<img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.svg" style="max-width:100%;">
 
 
 

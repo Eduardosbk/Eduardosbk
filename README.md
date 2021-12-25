@@ -1,6 +1,6 @@
 ### Languages and tools:
 
-<h1 width="100%">
+<h1 width="100%" display="flex">
   <img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript.svg" style="max-width:100%;">
 
   <img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/html5.svg" style="max-width:100%;">

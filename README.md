@@ -33,15 +33,7 @@
 
   <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.svg" style="max-width:100%;">
 
-  <img align="left" alt="terraform" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terraform.svg" style="max-width:100%;">
-
-  <img align="left" alt="figma" width="32px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
-
   <img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.svg" style="max-width:100%;">
-
-  <img align="left" alt="vue" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vuejs.svg" style="max-width:100%;">
-
-  <img align="left" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.svg" style="max-width:100%;">
 
   <img align="left" alt="mysql" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mysql.svg" style="max-width:100%;">
 </div>

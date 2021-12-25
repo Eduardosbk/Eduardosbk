@@ -18,7 +18,7 @@
 
 <img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
 
-<img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.png" style="max-width:100%;">
+<img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.svg" style="max-width:100%;">
 
 <img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
 

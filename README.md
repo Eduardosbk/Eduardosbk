@@ -1,34 +1,40 @@
 ### Languages and tools:
 
-<img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript2.png" style="max-width:100%;">
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript.svg" style="max-width:100%;">
 
-<img align="left" alt="htmlcss" width="32px" src="https://github.com/Eduardosbk/images/blob/main/htmlcss.png" style="max-width:100%;">
+<img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/html5.svg" style="max-width:100%;">
 
-<img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react.png" style="max-width:100%;">
+<img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/css3.svg" style="max-width:100%;">
 
-<img align="left" alt="reactnative" width="32px" src="https://github.com/Eduardosbk/images/blob/main/reactnative.png" style="max-width:100%;">
+<img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react.svg" style="max-width:100%;">
 
-<img align="left" alt="node" width="32px" src="https://github.com/Eduardosbk/images/blob/main/node.png" style="max-width:100%;">
+<img align="left" alt="reactnative" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react-native.svg" style="max-width:100%;">
 
-<img align="left" alt="typescript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/typescript.png" style="max-width:100%;">
+<img align="left" alt="node" width="32px" src="https://github.com/Eduardosbk/images/blob/main/node.svg" style="max-width:100%;">
 
-<img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/next.png" style="max-width:100%;">
+<img align="left" alt="typescript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/typescript.svg" style="max-width:100%;">
 
-<img align="left" alt="sass" width="32px" src="https://github.com/Eduardosbk/images/blob/main/sass.png" style="max-width:100%;">
+<img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/next.svg" style="max-width:100%;">
 
-<img align="left" alt="Terminal" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terminal.png" style="max-width:100%;">
+<img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.svg" style="max-width:100%;">
+
+<img align="left" alt="postgres" width="32px" src="https://github.com/Eduardosbk/images/blob/main/postgresql.svg" style="max-width:100%;">
 
 <img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.svg" style="max-width:100%;">
 
-<img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.png" style="max-width:100%;">
+<img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.svg" style="max-width:100%;">
 
-<img align="left" alt="firebase" width="32px" src="https://github.com/Eduardosbk/images/blob/main/firebase.png" style="max-width:100%;">
+<img align="left" alt="kubernetes" width="32px" src="https://github.com/Eduardosbk/images/blob/main/kubernetes.svg" style="max-width:100%;">
 
-<img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.png" style="max-width:100%;">
+<img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.svg" style="max-width:100%;">
 
-<img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.png" style="max-width:100%;">
+<img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.svg" style="max-width:100%;">
 
-<img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.png" style="max-width:100%;">
+<img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.svg" style="max-width:100%;">
+
+<img align="left" alt="terraform" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terraform.svg" style="max-width:100%;">
+
+<img align="left" alt="figma" width="32px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
 
 
 

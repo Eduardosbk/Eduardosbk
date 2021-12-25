@@ -34,9 +34,13 @@
 
 <img align="left" alt="terraform" width="32px" src="https://github.com/Eduardosbk/images/blob/main/terraform.svg" style="max-width:100%;">
 
-<img align="left" alt="figma" width="65px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
+<img align="left" alt="figma" width="32px" src="https://github.com/Eduardosbk/images/blob/main/figma.svg" style="max-width:100%;">
 
 <img align="left" alt="redux" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redux.svg" style="max-width:100%;">
+
+<img align="left" alt="vue" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vue.svg" style="max-width:100%;">
+
+<img align="left" alt="webpack" width="32px" src="https://github.com/Eduardosbk/images/blob/main/webpack.svg" style="max-width:100%;">
 
 
 

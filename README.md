@@ -42,7 +42,7 @@
   
 
   
-  ![Snake animation](https://github.com/eduardosbk/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduardosbk/eduardosbk/blob/output/github-contribution-grid-snake.svg)
 
 
 <div> 

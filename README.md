@@ -1,39 +1,6 @@
 ### Languages and tools:
 
-<div style="width: '100%'; display: 'inline_block';">
-  <img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript.svg" style="max-width:100%;">
 
-  <img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/html5.svg" style="max-width:100%;">
-
-  <img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/css3.svg" style="max-width:100%;">
-
-  <img align="left" alt="react" width="32px" src="https://github.com/Eduardosbk/images/blob/main/reactjs.svg" style="max-width:100%;">
-
-  <img align="left" alt="reactnative" width="32px" src="https://github.com/Eduardosbk/images/blob/main/react-native.svg" style="max-width:100%;">
-
-  <img align="left" alt="node" width="32px" src="https://github.com/Eduardosbk/images/blob/main/node.svg" style="max-width:100%;">
-
-  <img align="left" alt="typescript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/typescript.svg" style="max-width:100%;">
-
-  <img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/nextjs.svg" style="max-width:100%;">
-
-  <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.svg" style="max-width:100%;">
-
-  <img align="left" alt="postgres" width="32px" src="https://github.com/Eduardosbk/images/blob/main/postgresql.svg" style="max-width:100%;">
-
-  <img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.svg" style="max-width:100%;">
-
-  <img align="left" alt="docker" height="32px" src="https://github.com/Eduardosbk/images/blob/main/docker.svg" style="max-width:100%;">
-
-  <img align="left" alt="kubernetes" width="32px" src="https://github.com/Eduardosbk/images/blob/main/kubernetes.svg" style="max-width:100%;">
-
-  <img align="left" alt="git" width="32px" src="https://github.com/Eduardosbk/images/blob/main/git.svg" style="max-width:100%;">
-
-  <img align="left" alt="vscode" width="32px" src="https://github.com/Eduardosbk/images/blob/main/vscode.svg" style="max-width:100%;">
-
-  <img align="left" alt="mongodb" width="32px" src="https://github.com/Eduardosbk/images/blob/main/mongodb.svg" style="max-width:100%;">
-
-</div>
 </hr>
 <div style="display: 'inline_block'" align="center" display="inline-block" width="100%">
   <a href="https://github.com/eduardosbk">

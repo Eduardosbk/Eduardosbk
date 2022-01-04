@@ -23,8 +23,6 @@
 
   <img align="left" alt="nextjs" height="38px" src="https://github.com/Eduardosbk/images/blob/main/nextjs.svg" style="max-width:100%;">
 
-  <img align="left" alt="redis" width="32px" src="https://github.com/Eduardosbk/images/blob/main/redis.svg" style="max-width:100%;">
-
   <img align="left" alt="postgres" width="32px" src="https://github.com/Eduardosbk/images/blob/main/postgresql.svg" style="max-width:100%;">
 
   <img align="left" alt="aws" width="32px" src="https://github.com/Eduardosbk/images/blob/main/aws.svg" style="max-width:100%;">

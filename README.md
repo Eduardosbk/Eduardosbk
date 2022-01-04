@@ -1,7 +1,7 @@
 </hr>
 <div style="display: 'inline_block'" align="center" display="inline-block" width="100%">
   <a href="https://github.com/eduardosbk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosbk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbk&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    

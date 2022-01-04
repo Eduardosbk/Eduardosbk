@@ -1,6 +1,6 @@
 ### Languages and tools:
 
-<div width="100%" position="absolute" display="flex">
+<div width="100%" display="flex">
   <img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript.svg" style="max-width:100%;">
 
   <img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/html5.svg" style="max-width:100%;">
@@ -35,7 +35,7 @@
 
 </div>
 </hr>
-<div align="center">
+<div align="center" display="inline-block" width="100%">
   <a href="https://github.com/eduardosbk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbk&layout=compact&langs_count=7&theme=dracula"/>

@@ -6,7 +6,7 @@
 </div>
    
   ### Languages and tools:
-  <div style="width: '100%'; display: 'inline_block';">
+  <div style="width: '100vw'; display: 'inline_block';">
   <img align="left" alt="JavaScript" width="32px" src="https://github.com/Eduardosbk/images/blob/main/javascript.svg" style="max-width:100%;">
 
   <img align="left" alt="html" width="32px" src="https://github.com/Eduardosbk/images/blob/main/html5.svg" style="max-width:100%;">
